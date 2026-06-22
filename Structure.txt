@@ -1,0 +1,7 @@
+tetfund-cos-query-system/
+├── app.py (with the updated import handling)
+├── requirements.txt (with complete dependencies)
+├── packages.txt (with system dependencies)
+├── .streamlit/
+│   └── config.toml
+└── CoS.docx (optional - or you can upload via the app)
